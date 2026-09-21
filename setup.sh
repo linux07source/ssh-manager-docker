@@ -26,7 +26,7 @@ echo "Scrittura del file docker-compose.yml..."
 cat << 'EOF' > docker-compose.yml
 services:
   ssh-hub:
-    image: ghcr.io/tuo-username/ssh-manager:latest   # Sostituisci con il tuo link Docker registry
+    image: nyxen07/ssh-manager:latest
     container_name: ssh-manager-app
     ports:
       - "8080:8080"

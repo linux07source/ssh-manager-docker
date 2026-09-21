@@ -35,7 +35,7 @@ services:
       - ./auth.txt:/app/auth.txt
     environment:
       - SSH_HUB_USER=admin
-      - SSH_HUB_PASS=cambia_questa_password
+      - SSH_HUB_PASS=admin
     restart: unless-stopped
 EOF
 

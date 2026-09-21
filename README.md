@@ -28,3 +28,7 @@ Puoi configurare e avviare l'applicazione in pochi secondi utilizzando lo script
  ```bash
    chmod +x setup.sh && ./setup.sh
 ```
+5. **Accedi alla pagina**
+  ```bash
+http://localhost:8080
+ ```

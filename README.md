@@ -19,3 +19,7 @@ Puoi configurare e avviare l'applicazione in pochi secondi utilizzando lo script
    ```bash
    git clone https://github.com/linux07source/ssh-manager-docker.git
    ```
+2. **Rendi eseguibile lo script e avvialo**
+ ```bash
+   chmod +x setup.sh && ./setup.sh
+```

@@ -17,4 +17,5 @@ Puoi configurare e avviare l'applicazione in pochi secondi utilizzando lo script
 
 1. **Scarica lo script di installazione** direttamente nella tua cartella home (o nella directory desiderata):
    ```bash
-   curl -O [https://raw.githubusercontent.com/TUO-USERNAME/NOME-REPO/main/setup.sh](https://raw.githubusercontent.com/TUO-USERNAME/NOME-REPO/main/setup.sh)
+   git clone https://github.com/linux07source/ssh-manager-docker.git
+   ```

@@ -37,9 +37,11 @@ Puoi configurare e avviare l'applicazione in pochi secondi utilizzando lo script
 5. **Rendi eseguibile lo script per gli altri OS e avvialo**
     ```bash
    chmod +x setup_other_os.sh && ./setup_other_os.sh
-```
+   ```
 
 7. **Accedi alla pagina**
+
   ```bash
 http://localhost:8080
+
  ```
